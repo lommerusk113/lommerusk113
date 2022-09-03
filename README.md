@@ -21,5 +21,6 @@ I primarily program in the **.Net** environment, but I also have some experience
 
 ## Experience
 - Developer at Wise Consulting 2022 - Current
+- Bachelor Thesis for Adcom 2022
 ## Education
 - Bachelor at Høyskolen i Molde from 2019 - 2022
