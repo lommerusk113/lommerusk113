@@ -21,6 +21,6 @@ I primarily program in the **.Net** environment, but I also have some experience
 - PHP
 
 ## Experience
-- Developer at Wise Consulting 2022 - DateTime.Now
+- Developer at Wise Consulting 2022 - Current
 ## Education
 - Bachelor at Høyskolen i Molde from 2019 - 2022
