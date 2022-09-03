@@ -5,7 +5,7 @@
 - Languages: Norwegian, English
 
 Hello, I am a Norwegian **fullstack developer**. <br/>
-I primarily program in the **.Net** environment, but I also have some experience working with React-Native with firebase.
+I primarily program in the **.Net** environment, but I also have some experience working with React-Native.
 
 
 ## Skills
