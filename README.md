@@ -8,7 +8,7 @@ Hello, I am a Norwegian **fullstack developer**. <br/>
 I primarily program in the **.Net** environment, but I also have some experience working with React-Native with firebase.
 
 
-## Skills and Experience
+## Skills
 - Javascript
 - C#
 - Vue.Js
@@ -20,5 +20,7 @@ I primarily program in the **.Net** environment, but I also have some experience
 - Python
 - PHP
 
+## Experience
+Developer at Wise Consulting 2022 - 
 ## Education
 - Bachelor at Høyskolen i Molde from 2019 - 2022
