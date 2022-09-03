@@ -18,7 +18,6 @@ I primarily program in the **.Net** environment, but I also have some experience
 - HTML, CSS, Bootstrap
 - Vb
 - Python
-- PHP
 
 ## Experience
 - Developer at Wise Consulting 2022 - Current
