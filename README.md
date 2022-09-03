@@ -1,4 +1,12 @@
 # Joakim Mork Landsverk
+<div>
+  <ul class="row">
+    <li class="col-sm">1</li>
+    <li class="col-sm">2</li>
+    <li class="col-sm">3</li>
+    <li class="col-sm">4</li>
+  </ul>
+</div>
 - Age: 25
 - City: Molde
 - Country: Norway
