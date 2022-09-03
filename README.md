@@ -4,7 +4,7 @@
 - Country: Norway
 - Languages: Norwegian, English
 
-Hello, I am a Norwegian **fullstack developer**.
+Hello, I am a Norwegian **fullstack developer**. <br/>
 I primarily program in the **.Net** environment, but also have some experience working with React-Native with firebase.
 
 
