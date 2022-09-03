@@ -19,3 +19,6 @@ I primarily program in the **.Net** environment, but I also have some experience
 - Vb
 - Python
 - PHP
+
+## Education
+- Bachelor at Høyskolen i Molde from 2019 - 2022
