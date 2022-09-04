@@ -3,6 +3,7 @@
 - City: Molde
 - Country: Norway
 - Languages: Norwegian, English
+- Email: Joakim.mork.landsverk@gmail.com
 
 Hello, I am a Norwegian **fullstack developer**. <br/>
 I primarily program in the **.Net** environment, but I also have some experience working with React-Native.
