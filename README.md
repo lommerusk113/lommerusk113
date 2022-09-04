@@ -21,8 +21,8 @@ I primarily program in the **.Net** environment, but I also have some experience
 - HTML, CSS, Bootstrap
 - Vb
 - Python
-- Sanity.io
 - Firebase
+- Sanity.io
 
 ## Experience
 - Developer at Wise Consulting 2022 - Current
