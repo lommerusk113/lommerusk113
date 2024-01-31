@@ -12,6 +12,8 @@ Hello, I am a Norwegian **fullstack developer**. <br/>
 
 ## Skills
 - Javascript
+- Typescript
+- Java
 - C#
 - Vue.Js
 - React.js
