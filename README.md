@@ -1,12 +1,11 @@
 # Joakim Mork Landsverk
 - Age: 25
-- City: Molde
+- City: Ålesund
 - Country: Norway
 - Languages: Norwegian, English
 
 
 Hello, I am a Norwegian **fullstack developer**. <br/>
-I primarily program in the **.Net** environment, but I also have some experience working with React-Native.
 
 ## Contact
 - Email: Joakim.mork.landsverk@gmail.com
