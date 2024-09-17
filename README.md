@@ -26,7 +26,7 @@ Hello, I am a Norwegian **fullstack developer**. <br/>
 - Sanity.io
 
 ## Experience
-- Developer at Tritt Oct 2022 - Current
+- Developer at Conta Oct 2022 - Current
 - Developer at Wise Consulting Jan 2022 - Oct 2022
 - Bachelor Thesis for Adcom 2022 - 2022
 ## Education
