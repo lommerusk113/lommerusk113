@@ -1,5 +1,5 @@
 # Joakim Mork Landsverk
-- Age: 27
+- Age: 28
 - City: Ålesund
 - Country: Norway
 - Languages: Norwegian, English
@@ -11,7 +11,6 @@ Hello, I am a Norwegian **fullstack developer**. <br/>
 - Email: Joakim.mork.landsverk@gmail.com
 
 ## Skills
-- Javascript
 - Typescript
 - Java
 - C#
@@ -19,11 +18,8 @@ Hello, I am a Norwegian **fullstack developer**. <br/>
 - React.js
 - React-Native
 - SQL
-- HTML, CSS, Bootstrap
-- Vb
-- Python
+- Tailwind
 - Firebase
-- Sanity.io
 
 ## Experience
 - Developer at Conta Oct 2022 - Current
